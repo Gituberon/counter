@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    margin: 100px 0px;
+    background-color: lightblue;
+}
+.counter{
+    max-width: 421px;
+    margin: auto;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 15px 15px;
+}
+p{
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+button{
+    padding: 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.pilus{
+    font-size: 25px;
+    color: blue;
+}
+.min{
+    font-size: 25px;
+    color: green;
+}
+.tozalash{
+    font-size: 25px;
+    color: red;
+}
