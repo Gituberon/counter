@@ -38,3 +38,9 @@ button{
     font-size: 25px;
     font-weight: 600;
 }
+
+@media (max-width: 375px) {
+    .tozalash{
+        margin-bottom: 8px;
+    }
+}
